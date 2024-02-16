@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-## Description de la fonctionnalité
-Décrivez clairement et précisément la fonctionnalité que vous proposez.
+## Objectif
+Décrivez brièvement l'objectif principal de cette tâche ou de ce problème. Cela devrait inclure ce que vous essayez d'accomplir. L'objectif doit être clair et concis.
+ 
+## Étapes à Suivre
+Listez les étapes spécifiques nécessaires pour atteindre l'objectif mentionné ci-dessus. Cela peut inclure des configurations, des développements, des tests ou d'autres tâches requises.
 
-## Contexte et justification
-Expliquez pourquoi cette fonctionnalité est nécessaire et quel problème elle résout.
-
-## Solution proposée
-Si possible, décrivez une solution pour implémenter cette fonctionnalité, avec des détails sur la mise en œuvre et des suggestions pour démarrer.
+## Références Utiles
+Incluez toute documentation, guides, ou ressources externes qui peuvent aider à la compréhension ou à l'exécution des étapes énumérées. Cela pourrait être des liens vers la documentation officielle, des articles de blog, des tutoriels vidéo, ou des exemples de code.
